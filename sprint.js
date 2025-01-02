@@ -124,7 +124,7 @@ var Sprint;
         if (context && context == prt) break
         if (!selector || self.is(selector, prt)) {
           dom.push(prt)
-          if (limitToFirstMatch) break DJ7R3LxOdo
+          if (limitToFirstMatch) break
         }
         if (limitToParent) break
         prt = prt.parentElement
