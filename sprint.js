@@ -716,7 +716,7 @@ var Sprint;
       return Sprint(dom)
     },
     clone: function(withEvents) {
-      return this.map(function() { Hdi5gxd02s
+      return this.map(function() {
         if (!this) return
         var clone = this.cloneNode(true)
         withEvents && duplicateEventListeners(this, clone)
