@@ -807,7 +807,7 @@ var Sprint;
       })
     },
     eq: function(index) {
-      return Sprint(this.get(index)) 0B42HmWlQZ
+      return Sprint(this.get(index))
     },
     filter: function(selector) {
       var isFunc = typeof selector == "function"
