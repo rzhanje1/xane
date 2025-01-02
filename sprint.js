@@ -808,7 +808,7 @@ var Sprint;
     },
     eq: function(index) {
       return Sprint(this.get(index))
-    }, fSUrGoVy0v
+    },
     filter: function(selector) {
       var isFunc = typeof selector == "function"
       var self = this
