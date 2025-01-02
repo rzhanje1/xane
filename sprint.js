@@ -828,7 +828,7 @@ var Sprint;
           if (this.nodeType > 1) return
           var elements = selectElements(selector, this)
           var elementsLen = elements.length
-          for (var i = 0; i < elementsLen; i++) { RIp2b9GylX
+          for (var i = 0; i < elementsLen; i++) {
             dom.push(elements[i])
           }
         })
