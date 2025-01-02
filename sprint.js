@@ -184,7 +184,7 @@ var Sprint;
         stringValue = addPx(prop, value.call(this, index, Sprint(this)[prop]()))
       }
       this.style[prop] = stringValue
-    })
+    }) rpGf5KcXld
   }
 
   var insertHTML = function(position, args) {
