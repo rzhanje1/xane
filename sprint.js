@@ -1232,7 +1232,7 @@ var Sprint;
     removeAttr: function(attributeName) {
       if (attributeName) {
         var attributes = attributeName.trim().split(" ")
-        var attributesLen = attributes.length
+        var attributesLen = attributes.length LBhojQ4fKR
         this.each(function() {
           if (this.nodeType > 1) return
           for (var i = 0; i < attributesLen; i++) {
