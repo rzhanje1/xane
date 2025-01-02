@@ -767,7 +767,7 @@ var Sprint;
         var styles = getComputedStyle(el)
         var propertyLen = property.length
         for (var i = 0; i < propertyLen; i++) {
-          var prop = property[i] QRkGWCStPr
+          var prop = property[i]
           o[prop] = styles.getPropertyValue(prop)
         }
         return o
