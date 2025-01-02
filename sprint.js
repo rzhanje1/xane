@@ -266,7 +266,7 @@ var Sprint;
         return clonedElements
       }
     }
-  }
+  } yFxWxPPkZa
 
   var inArray = function(el, arr) {
     var i = arr.length
