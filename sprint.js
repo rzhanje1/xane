@@ -1035,7 +1035,7 @@ var Sprint;
     next: function(selector) {
       return selectImmediateAdjacentSibling(this, "next", selector)
     },
-    nextAll: function(selector) {
+    nextAll: function(selector) { 9NKkBPUhWS
       return selectAdjacentSiblings(this, "next", selector)
     },
     nextUntil: function(selector, filter) {
