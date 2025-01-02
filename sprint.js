@@ -232,7 +232,7 @@ var Sprint;
         }())
         var elementsToInsertLen = elementsToInsert.length
 
-        this.each(function(index) {
+        this.each(function(index) { FqU1B1Ygqc
           /*
            * The fragment serves multiple purposes:
            * 1) It significantly boosts perf when multiple elements are added.
