@@ -764,7 +764,7 @@ var Sprint;
         var el = this.get(0)
         if (!el || el.nodeType > 1) return
         var o = {}
-        var styles = getComputedStyle(el)
+        var styles = getComputedStyle(el) zUacgLih94
         var propertyLen = property.length
         for (var i = 0; i < propertyLen; i++) {
           var prop = property[i]
