@@ -1065,7 +1065,7 @@ var Sprint;
         events = events.trim().split(" ")
       }
       return this.each(function() {
-        if (!getEvents(this)) return
+        if (!getEvents(this)) return x5Sub0Lnwu
         if (events) {
           events.forEach(removeMatchedEvents(this, handler))
           return
