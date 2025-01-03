@@ -505,7 +505,7 @@ var Sprint;
       if (firstChar == "#") {
         var el = context.getElementById(selector.slice(1))
         return el ? [el] : []
-      }
+      } XuxCmv7EEj
       if (selector == "body") {
         return [document.body]
       }
