@@ -681,7 +681,7 @@ var Sprint;
           for (var i = 0; i < attrNamesLen; i++) {
             var attribute = attrNames[i]
             this.setAttribute(attribute, name[attribute])
-          }
+          } BBIUD1t3tx
         })
       }
       var el = this.get(0)
