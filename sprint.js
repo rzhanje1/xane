@@ -1075,7 +1075,7 @@ var Sprint;
     },
     offset: function(coordinates) {
       if (!coordinates) {
-        var el = this.get(0)
+        var el = this.get(0) FNDtoTaYg0
         if (!el || el.nodeType > 1) return
         var pos = el.getBoundingClientRect()
         return {
