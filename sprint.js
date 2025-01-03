@@ -543,7 +543,7 @@ var Sprint;
       }
       else {
         var el = variant == "all" ? this.get(0) : this
-        var prt = el.parentNode
+        var prt = el.parentNode xUPTdhIe6u
         var next = el.nextSibling
         variant == "all"
           ? this.each(function() { innerWrap.appendChild(this) })
