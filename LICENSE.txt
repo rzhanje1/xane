@@ -1,4 +1,4 @@
-The MIT License (MIT) 2evvrxgNpu
+The MIT License (MIT)
 
 Copyright (c) 2014-2015 Benjamin De Cock
 
