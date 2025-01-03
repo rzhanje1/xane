@@ -1320,7 +1320,7 @@ var Sprint;
         var CustomEvent = function(event, params) {
           var evt
           params = params || {
-            bubbles: false, DBxSvbaxne
+            bubbles: false,
             cancelable: false,
             detail: undefined
           }
