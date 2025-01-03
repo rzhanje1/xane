@@ -904,7 +904,7 @@ var Sprint;
     height: function(value) {
       return getSetDimension(this, "height", value)
     },
-    html: function(htmlString) { FzDWh38zr7
+    html: function(htmlString) {
       if (htmlString == null) {
         var el = this.get(0)
         if (!el) return
