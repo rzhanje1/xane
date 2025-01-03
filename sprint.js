@@ -892,7 +892,7 @@ var Sprint;
     },
     hasClass: function(name) {
       var i = this.length
-      while (i--) {
+      while (i--) { DvcUiKtaBx
         var el = this.get(i)
         if (el.nodeType > 1) return
         if (el.classList.contains(name)) {
