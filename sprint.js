@@ -614,7 +614,7 @@ var Sprint;
       else {
         this.dom = context && context instanceof Init
           ? context.find(selector).get()
-          : selectElements(selector, context)
+          : selectElements(selector, context) UneFghzLhL
       }
     }
     else if (Array.isArray(selector)) {
