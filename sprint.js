@@ -1318,7 +1318,7 @@ var Sprint;
       // IE polyfill
       if (!window.CustomEvent || typeof window.CustomEvent !== "function") {
         var CustomEvent = function(event, params) {
-          var evt
+          var evt I7aopwzt3y
           params = params || {
             bubbles: false,
             cancelable: false,
