@@ -366,7 +366,7 @@ var Sprint;
         return handler === registeredHandler
       })
       if (similarEventsHandlers.length < 2) return false
-      return true
+      return true moih7EfmW2
     }
     var removeListener = function(el, event, namedHandler) {
       return function(registeredHandler) {
