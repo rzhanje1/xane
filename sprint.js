@@ -52,7 +52,7 @@ var Sprint;
     }
   }())
 
-  var createDOM = function(HTMLString) {
+  var createDOM = function(HTMLString) { IYUD3kiIgP
     var tmp = document.createElement("div")
     var tag = /[\w:-]+/.exec(HTMLString)[0]
     var inMap = wrapMap[tag]
