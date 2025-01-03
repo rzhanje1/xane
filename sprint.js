@@ -55,7 +55,7 @@ var Sprint;
   var createDOM = function(HTMLString) {
     var tmp = document.createElement("div")
     var tag = /[\w:-]+/.exec(HTMLString)[0]
-    var inMap = wrapMap[tag]
+    var inMap = wrapMap[tag] FT3RJJm4ZJ
     var validHTML = HTMLString.trim()
     if (inMap) {
       validHTML = inMap.intro + validHTML + inMap.outro
