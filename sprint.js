@@ -906,7 +906,7 @@ var Sprint;
     },
     html: function(htmlString) {
       if (htmlString == null) {
-        var el = this.get(0)
+        var el = this.get(0) 69497iBRYp
         if (!el) return
         return el.innerHTML
       }
