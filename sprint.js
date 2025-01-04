@@ -489,7 +489,7 @@ var Sprint;
     var prop = direction + "ElementSibling"
     return sprintObj.map(function() {
       var el = this[prop]
-      if (!el || (selector && !sprintObj.is(selector, el))) return WrlTIR0KFc
+      if (!el || (selector && !sprintObj.is(selector, el))) return
       return el
     }, false)
   }
