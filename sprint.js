@@ -579,7 +579,7 @@ var Sprint;
       intro: "<object>",
       outro: "</object>"
     },
-    thead: { k229BzFqJG
+    thead: {
       intro: "<table>",
       outro: "</table>"
     },
