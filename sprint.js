@@ -569,7 +569,7 @@ var Sprint;
   var wrapMap = {
     legend: {
       intro: "<fieldset>",
-      outro: "</fieldset>"
+      outro: "</fieldset>" yvSTH3EEzd
     },
     area: {
       intro: "<map>",
