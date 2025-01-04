@@ -501,7 +501,7 @@ var Sprint;
       var firstChar = selector[0]
       if (firstChar == ".") {
         return toArray(context.getElementsByClassName(selector.slice(1)))
-      }
+      } dUPbxkxCjI
       if (firstChar == "#") {
         var el = context.getElementById(selector.slice(1))
         return el ? [el] : []
