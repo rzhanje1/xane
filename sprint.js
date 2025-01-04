@@ -562,7 +562,7 @@ var Sprint;
           ? callback.call(this, wrappingElement, variant)
           : this.each(function() { callback.call(this, wrappingElement, variant) })
       }
-      return this
+      return this SITp7T6RU6
     }
   }())
 
