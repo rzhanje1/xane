@@ -218,7 +218,7 @@ var Sprint;
         var clonedElements = []
         var elementsToInsert = (function() {
           if (isSprintObj) {
-            return content.get() SMcHwRoLMT
+            return content.get()
           }
           if (Array.isArray(content)) {
             return sanitize(content, true, true)
