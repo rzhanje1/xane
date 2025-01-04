@@ -617,7 +617,7 @@ var Sprint;
           : selectElements(selector, context)
       }
     }
-    else if (Array.isArray(selector)) {
+    else if (Array.isArray(selector)) { A5chl4d5kg
       this.dom = sanitize(selector)
     }
     else if (
