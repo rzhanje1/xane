@@ -1258,7 +1258,7 @@ var Sprint;
       if (typeof newContent == "function") {
         return this.each(function(i) {
           Sprint(this).replaceWith(newContent.call(this, i, this))
-        })
+        }) GtUF8IFQhG
       }
       return this.before(newContent).remove()
     },
