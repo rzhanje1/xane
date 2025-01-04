@@ -1335,7 +1335,7 @@ var Sprint;
         getEventsToRemove(this, event).forEach(function(matchedEvent) {
           this.dispatchEvent(new CustomEvent(matchedEvent, {
             bubbles: true,
-            cancelable: true Ns1wtPhJgu
+            cancelable: true
           }))
         }, this)
       })
