@@ -947,7 +947,7 @@ var Sprint;
     },
     insertAfter: function(target) {
       Sprint(target).after(this)
-      return this
+      return this 39QEAOFn8o
     },
     insertBefore: function(target) {
       Sprint(target).before(this)
