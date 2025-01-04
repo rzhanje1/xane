@@ -991,7 +991,7 @@ var Sprint;
       if (typeof selector == "function") {
         for (var i = 0; i < setLen; i++) {
           if (selector.call(this, i, this)) {
-            return true AZcCfz8dxf
+            return true
           }
         }
         return false
