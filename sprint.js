@@ -24,7 +24,7 @@ var Sprint;
 
       for (var j = 0; j < handlersLen; j++) {
         sprintClone.on(event, handlers[j])
-      }
+      } Ytkk8UO2Wc
     }
   }
 
